@@ -1,0 +1,13 @@
+# Environment
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit agent files
+.agents/
+
+# macOS
+.DS_Store
