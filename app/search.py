@@ -1,21 +1,45 @@
-from pathlib import Path
+from rapidfuzz import process
 import pandas as pd
-from sqlalchemy import create_engine
+from app.database import engine
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DB_PATH = BASE_DIR / "data" / "ecochem.db"
-
-print(f"Using database: {DB_PATH}")
-
-engine = create_engine(f"sqlite:///{DB_PATH}")
 
 def search_ingredient(name):
-    query = """
-    SELECT *
-    FROM ingredients
-    WHERE Ingredient LIKE ?
-    LIMIT 5
-    """
 
-    return pd.read_sql(query, engine, params=(f"%{name}%",))
+    # Load the ingredients table
+    df = pd.read_sql(
+        "SELECT * FROM ingredients",
+        engine
+    )
+
+    # 1. Exact match
+    result = df[
+        df["ingredient"].str.contains(
+            name,
+            case=False,
+            na=False
+        )
+    ]
+
+    if not result.empty:
+        return result
+
+    # 2. Fuzzy match
+    matches = process.extract(
+        name,
+        df["ingredient"].tolist(),
+        limit=3
+    )
+
+    if matches:
+        ingredient_name = matches[0][0]
+        score = matches[0][1]
+
+        print(f"Fuzzy match: {ingredient_name} ({score}%)")
+
+        if score >= 70:
+            return df[
+                df["ingredient"] == ingredient_name
+            ]
+
+    return pd.DataFrame()
     
