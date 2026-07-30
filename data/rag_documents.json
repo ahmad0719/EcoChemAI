@@ -1,0 +1,4002 @@
+[
+  {
+    "ingredient": "Citric Acid",
+    "text": "Ingredient: Citric Acid\nFunction: pH Control\nCategory: Acid\nPubChem CID: 311.0\nIUPAC Name: 2-hydroxypropane-1,2,3-tricarboxylic acid\nMolecular Formula: C6H8O7\nMolecular Weight: 192.12"
+  },
+  {
+    "ingredient": "Sodium Benzoate",
+    "text": "Ingredient: Sodium Benzoate\nFunction: Preservative\nCategory: Food Additive\nPubChem CID: 517055.0\nIUPAC Name: sodium benzoate\nMolecular Formula: C7H5NaO2\nMolecular Weight: 144.1"
+  },
+  {
+    "ingredient": "Ascorbic Acid",
+    "text": "Ingredient: Ascorbic Acid\nFunction: Antioxidant\nCategory: Vitamin\nPubChem CID: 54670067.0\nIUPAC Name: (2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one\nMolecular Formula: C6H8O6\nMolecular Weight: 176.12"
+  },
+  {
+    "ingredient": "Calcium Carbonate",
+    "text": "Ingredient: Calcium Carbonate\nFunction: Fortificant\nCategory: Mineral\nPubChem CID: 10112.0\nIUPAC Name: calcium carbonate\nMolecular Formula: CCaO3\nMolecular Weight: 100.09"
+  },
+  {
+    "ingredient": "Xanthan Gum",
+    "text": "Ingredient: Xanthan Gum\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum",
+    "text": "Ingredient: Guar Gum\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin",
+    "text": "Ingredient: Lecithin\nFunction: Emulsifier\nCategory: Emulsifier\nPubChem CID: 16213884.0\nIUPAC Name: [(2R)-3-hexadecanoyloxy-2-[(9E,12E)-octadeca-9,12-dienoyl]oxypropyl] 2-(trimethylazaniumyl)ethyl phosphate\nMolecular Formula: C42H80NO8P\nMolecular Weight: 758.1"
+  },
+  {
+    "ingredient": "Potassium Sorbate",
+    "text": "Ingredient: Potassium Sorbate\nFunction: Preservative\nCategory: Food Additive\nPubChem CID: 23676745.0\nIUPAC Name: potassium (2E,4E)-hexa-2,4-dienoate\nMolecular Formula: C6H7KO2\nMolecular Weight: 150.22"
+  },
+  {
+    "ingredient": "Malic Acid",
+    "text": "Ingredient: Malic Acid\nFunction: Acidulant\nCategory: Acid\nPubChem CID: 525.0\nIUPAC Name: 2-hydroxybutanedioic acid\nMolecular Formula: C4H6O5\nMolecular Weight: 134.09"
+  },
+  {
+    "ingredient": "Sodium Chloride",
+    "text": "Ingredient: Sodium Chloride\nFunction: Flavor\nCategory: Salt\nPubChem CID: 5234.0\nIUPAC Name: sodium chloride\nMolecular Formula: ClNa\nMolecular Weight: 58.44"
+  },
+  {
+    "ingredient": "Citric Acid Variant 2",
+    "text": "Ingredient: Citric Acid Variant 2\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 2",
+    "text": "Ingredient: Sodium Benzoate Variant 2\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 2",
+    "text": "Ingredient: Ascorbic Acid Variant 2\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 2",
+    "text": "Ingredient: Calcium Carbonate Variant 2\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 2",
+    "text": "Ingredient: Xanthan Gum Variant 2\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 2",
+    "text": "Ingredient: Guar Gum Variant 2\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 2",
+    "text": "Ingredient: Lecithin Variant 2\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 2",
+    "text": "Ingredient: Potassium Sorbate Variant 2\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 2",
+    "text": "Ingredient: Malic Acid Variant 2\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 2",
+    "text": "Ingredient: Sodium Chloride Variant 2\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 3",
+    "text": "Ingredient: Citric Acid Variant 3\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 3",
+    "text": "Ingredient: Sodium Benzoate Variant 3\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 3",
+    "text": "Ingredient: Ascorbic Acid Variant 3\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 3",
+    "text": "Ingredient: Calcium Carbonate Variant 3\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 3",
+    "text": "Ingredient: Xanthan Gum Variant 3\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 3",
+    "text": "Ingredient: Guar Gum Variant 3\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 3",
+    "text": "Ingredient: Lecithin Variant 3\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 3",
+    "text": "Ingredient: Potassium Sorbate Variant 3\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 3",
+    "text": "Ingredient: Malic Acid Variant 3\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 3",
+    "text": "Ingredient: Sodium Chloride Variant 3\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 4",
+    "text": "Ingredient: Citric Acid Variant 4\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 4",
+    "text": "Ingredient: Sodium Benzoate Variant 4\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 4",
+    "text": "Ingredient: Ascorbic Acid Variant 4\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 4",
+    "text": "Ingredient: Calcium Carbonate Variant 4\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 4",
+    "text": "Ingredient: Xanthan Gum Variant 4\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 4",
+    "text": "Ingredient: Guar Gum Variant 4\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 4",
+    "text": "Ingredient: Lecithin Variant 4\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 4",
+    "text": "Ingredient: Potassium Sorbate Variant 4\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 4",
+    "text": "Ingredient: Malic Acid Variant 4\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 4",
+    "text": "Ingredient: Sodium Chloride Variant 4\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 5",
+    "text": "Ingredient: Citric Acid Variant 5\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 5",
+    "text": "Ingredient: Sodium Benzoate Variant 5\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 5",
+    "text": "Ingredient: Ascorbic Acid Variant 5\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 5",
+    "text": "Ingredient: Calcium Carbonate Variant 5\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 5",
+    "text": "Ingredient: Xanthan Gum Variant 5\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 5",
+    "text": "Ingredient: Guar Gum Variant 5\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 5",
+    "text": "Ingredient: Lecithin Variant 5\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 5",
+    "text": "Ingredient: Potassium Sorbate Variant 5\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 5",
+    "text": "Ingredient: Malic Acid Variant 5\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 5",
+    "text": "Ingredient: Sodium Chloride Variant 5\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 6",
+    "text": "Ingredient: Citric Acid Variant 6\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 6",
+    "text": "Ingredient: Sodium Benzoate Variant 6\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 6",
+    "text": "Ingredient: Ascorbic Acid Variant 6\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 6",
+    "text": "Ingredient: Calcium Carbonate Variant 6\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 6",
+    "text": "Ingredient: Xanthan Gum Variant 6\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 6",
+    "text": "Ingredient: Guar Gum Variant 6\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 6",
+    "text": "Ingredient: Lecithin Variant 6\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 6",
+    "text": "Ingredient: Potassium Sorbate Variant 6\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 6",
+    "text": "Ingredient: Malic Acid Variant 6\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 6",
+    "text": "Ingredient: Sodium Chloride Variant 6\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 7",
+    "text": "Ingredient: Citric Acid Variant 7\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 7",
+    "text": "Ingredient: Sodium Benzoate Variant 7\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 7",
+    "text": "Ingredient: Ascorbic Acid Variant 7\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 7",
+    "text": "Ingredient: Calcium Carbonate Variant 7\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 7",
+    "text": "Ingredient: Xanthan Gum Variant 7\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 7",
+    "text": "Ingredient: Guar Gum Variant 7\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 7",
+    "text": "Ingredient: Lecithin Variant 7\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 7",
+    "text": "Ingredient: Potassium Sorbate Variant 7\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 7",
+    "text": "Ingredient: Malic Acid Variant 7\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 7",
+    "text": "Ingredient: Sodium Chloride Variant 7\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 8",
+    "text": "Ingredient: Citric Acid Variant 8\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 8",
+    "text": "Ingredient: Sodium Benzoate Variant 8\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 8",
+    "text": "Ingredient: Ascorbic Acid Variant 8\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 8",
+    "text": "Ingredient: Calcium Carbonate Variant 8\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 8",
+    "text": "Ingredient: Xanthan Gum Variant 8\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 8",
+    "text": "Ingredient: Guar Gum Variant 8\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 8",
+    "text": "Ingredient: Lecithin Variant 8\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 8",
+    "text": "Ingredient: Potassium Sorbate Variant 8\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 8",
+    "text": "Ingredient: Malic Acid Variant 8\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 8",
+    "text": "Ingredient: Sodium Chloride Variant 8\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 9",
+    "text": "Ingredient: Citric Acid Variant 9\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 9",
+    "text": "Ingredient: Sodium Benzoate Variant 9\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 9",
+    "text": "Ingredient: Ascorbic Acid Variant 9\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 9",
+    "text": "Ingredient: Calcium Carbonate Variant 9\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 9",
+    "text": "Ingredient: Xanthan Gum Variant 9\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 9",
+    "text": "Ingredient: Guar Gum Variant 9\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 9",
+    "text": "Ingredient: Lecithin Variant 9\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 9",
+    "text": "Ingredient: Potassium Sorbate Variant 9\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 9",
+    "text": "Ingredient: Malic Acid Variant 9\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 9",
+    "text": "Ingredient: Sodium Chloride Variant 9\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 10",
+    "text": "Ingredient: Citric Acid Variant 10\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 10",
+    "text": "Ingredient: Sodium Benzoate Variant 10\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 10",
+    "text": "Ingredient: Ascorbic Acid Variant 10\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 10",
+    "text": "Ingredient: Calcium Carbonate Variant 10\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 10",
+    "text": "Ingredient: Xanthan Gum Variant 10\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 10",
+    "text": "Ingredient: Guar Gum Variant 10\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 10",
+    "text": "Ingredient: Lecithin Variant 10\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 10",
+    "text": "Ingredient: Potassium Sorbate Variant 10\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 10",
+    "text": "Ingredient: Malic Acid Variant 10\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 10",
+    "text": "Ingredient: Sodium Chloride Variant 10\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 11",
+    "text": "Ingredient: Citric Acid Variant 11\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 11",
+    "text": "Ingredient: Sodium Benzoate Variant 11\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 11",
+    "text": "Ingredient: Ascorbic Acid Variant 11\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 11",
+    "text": "Ingredient: Calcium Carbonate Variant 11\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 11",
+    "text": "Ingredient: Xanthan Gum Variant 11\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 11",
+    "text": "Ingredient: Guar Gum Variant 11\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 11",
+    "text": "Ingredient: Lecithin Variant 11\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 11",
+    "text": "Ingredient: Potassium Sorbate Variant 11\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 11",
+    "text": "Ingredient: Malic Acid Variant 11\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 11",
+    "text": "Ingredient: Sodium Chloride Variant 11\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 12",
+    "text": "Ingredient: Citric Acid Variant 12\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 12",
+    "text": "Ingredient: Sodium Benzoate Variant 12\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 12",
+    "text": "Ingredient: Ascorbic Acid Variant 12\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 12",
+    "text": "Ingredient: Calcium Carbonate Variant 12\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 12",
+    "text": "Ingredient: Xanthan Gum Variant 12\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 12",
+    "text": "Ingredient: Guar Gum Variant 12\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 12",
+    "text": "Ingredient: Lecithin Variant 12\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 12",
+    "text": "Ingredient: Potassium Sorbate Variant 12\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 12",
+    "text": "Ingredient: Malic Acid Variant 12\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 12",
+    "text": "Ingredient: Sodium Chloride Variant 12\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 13",
+    "text": "Ingredient: Citric Acid Variant 13\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 13",
+    "text": "Ingredient: Sodium Benzoate Variant 13\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 13",
+    "text": "Ingredient: Ascorbic Acid Variant 13\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 13",
+    "text": "Ingredient: Calcium Carbonate Variant 13\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 13",
+    "text": "Ingredient: Xanthan Gum Variant 13\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 13",
+    "text": "Ingredient: Guar Gum Variant 13\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 13",
+    "text": "Ingredient: Lecithin Variant 13\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 13",
+    "text": "Ingredient: Potassium Sorbate Variant 13\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 13",
+    "text": "Ingredient: Malic Acid Variant 13\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 13",
+    "text": "Ingredient: Sodium Chloride Variant 13\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 14",
+    "text": "Ingredient: Citric Acid Variant 14\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 14",
+    "text": "Ingredient: Sodium Benzoate Variant 14\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 14",
+    "text": "Ingredient: Ascorbic Acid Variant 14\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 14",
+    "text": "Ingredient: Calcium Carbonate Variant 14\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 14",
+    "text": "Ingredient: Xanthan Gum Variant 14\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 14",
+    "text": "Ingredient: Guar Gum Variant 14\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 14",
+    "text": "Ingredient: Lecithin Variant 14\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 14",
+    "text": "Ingredient: Potassium Sorbate Variant 14\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 14",
+    "text": "Ingredient: Malic Acid Variant 14\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 14",
+    "text": "Ingredient: Sodium Chloride Variant 14\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 15",
+    "text": "Ingredient: Citric Acid Variant 15\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 15",
+    "text": "Ingredient: Sodium Benzoate Variant 15\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 15",
+    "text": "Ingredient: Ascorbic Acid Variant 15\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 15",
+    "text": "Ingredient: Calcium Carbonate Variant 15\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 15",
+    "text": "Ingredient: Xanthan Gum Variant 15\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 15",
+    "text": "Ingredient: Guar Gum Variant 15\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 15",
+    "text": "Ingredient: Lecithin Variant 15\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 15",
+    "text": "Ingredient: Potassium Sorbate Variant 15\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 15",
+    "text": "Ingredient: Malic Acid Variant 15\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 15",
+    "text": "Ingredient: Sodium Chloride Variant 15\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 16",
+    "text": "Ingredient: Citric Acid Variant 16\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 16",
+    "text": "Ingredient: Sodium Benzoate Variant 16\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 16",
+    "text": "Ingredient: Ascorbic Acid Variant 16\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 16",
+    "text": "Ingredient: Calcium Carbonate Variant 16\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 16",
+    "text": "Ingredient: Xanthan Gum Variant 16\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 16",
+    "text": "Ingredient: Guar Gum Variant 16\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 16",
+    "text": "Ingredient: Lecithin Variant 16\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 16",
+    "text": "Ingredient: Potassium Sorbate Variant 16\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 16",
+    "text": "Ingredient: Malic Acid Variant 16\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 16",
+    "text": "Ingredient: Sodium Chloride Variant 16\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 17",
+    "text": "Ingredient: Citric Acid Variant 17\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 17",
+    "text": "Ingredient: Sodium Benzoate Variant 17\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 17",
+    "text": "Ingredient: Ascorbic Acid Variant 17\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 17",
+    "text": "Ingredient: Calcium Carbonate Variant 17\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 17",
+    "text": "Ingredient: Xanthan Gum Variant 17\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 17",
+    "text": "Ingredient: Guar Gum Variant 17\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 17",
+    "text": "Ingredient: Lecithin Variant 17\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 17",
+    "text": "Ingredient: Potassium Sorbate Variant 17\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 17",
+    "text": "Ingredient: Malic Acid Variant 17\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 17",
+    "text": "Ingredient: Sodium Chloride Variant 17\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 18",
+    "text": "Ingredient: Citric Acid Variant 18\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 18",
+    "text": "Ingredient: Sodium Benzoate Variant 18\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 18",
+    "text": "Ingredient: Ascorbic Acid Variant 18\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 18",
+    "text": "Ingredient: Calcium Carbonate Variant 18\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 18",
+    "text": "Ingredient: Xanthan Gum Variant 18\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 18",
+    "text": "Ingredient: Guar Gum Variant 18\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 18",
+    "text": "Ingredient: Lecithin Variant 18\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 18",
+    "text": "Ingredient: Potassium Sorbate Variant 18\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 18",
+    "text": "Ingredient: Malic Acid Variant 18\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 18",
+    "text": "Ingredient: Sodium Chloride Variant 18\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 19",
+    "text": "Ingredient: Citric Acid Variant 19\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 19",
+    "text": "Ingredient: Sodium Benzoate Variant 19\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 19",
+    "text": "Ingredient: Ascorbic Acid Variant 19\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 19",
+    "text": "Ingredient: Calcium Carbonate Variant 19\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 19",
+    "text": "Ingredient: Xanthan Gum Variant 19\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 19",
+    "text": "Ingredient: Guar Gum Variant 19\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 19",
+    "text": "Ingredient: Lecithin Variant 19\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 19",
+    "text": "Ingredient: Potassium Sorbate Variant 19\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 19",
+    "text": "Ingredient: Malic Acid Variant 19\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 19",
+    "text": "Ingredient: Sodium Chloride Variant 19\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 20",
+    "text": "Ingredient: Citric Acid Variant 20\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 20",
+    "text": "Ingredient: Sodium Benzoate Variant 20\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 20",
+    "text": "Ingredient: Ascorbic Acid Variant 20\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 20",
+    "text": "Ingredient: Calcium Carbonate Variant 20\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 20",
+    "text": "Ingredient: Xanthan Gum Variant 20\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 20",
+    "text": "Ingredient: Guar Gum Variant 20\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 20",
+    "text": "Ingredient: Lecithin Variant 20\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 20",
+    "text": "Ingredient: Potassium Sorbate Variant 20\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 20",
+    "text": "Ingredient: Malic Acid Variant 20\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 20",
+    "text": "Ingredient: Sodium Chloride Variant 20\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 21",
+    "text": "Ingredient: Citric Acid Variant 21\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 21",
+    "text": "Ingredient: Sodium Benzoate Variant 21\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 21",
+    "text": "Ingredient: Ascorbic Acid Variant 21\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 21",
+    "text": "Ingredient: Calcium Carbonate Variant 21\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 21",
+    "text": "Ingredient: Xanthan Gum Variant 21\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 21",
+    "text": "Ingredient: Guar Gum Variant 21\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 21",
+    "text": "Ingredient: Lecithin Variant 21\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 21",
+    "text": "Ingredient: Potassium Sorbate Variant 21\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 21",
+    "text": "Ingredient: Malic Acid Variant 21\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 21",
+    "text": "Ingredient: Sodium Chloride Variant 21\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 22",
+    "text": "Ingredient: Citric Acid Variant 22\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 22",
+    "text": "Ingredient: Sodium Benzoate Variant 22\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 22",
+    "text": "Ingredient: Ascorbic Acid Variant 22\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 22",
+    "text": "Ingredient: Calcium Carbonate Variant 22\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 22",
+    "text": "Ingredient: Xanthan Gum Variant 22\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 22",
+    "text": "Ingredient: Guar Gum Variant 22\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 22",
+    "text": "Ingredient: Lecithin Variant 22\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 22",
+    "text": "Ingredient: Potassium Sorbate Variant 22\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 22",
+    "text": "Ingredient: Malic Acid Variant 22\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 22",
+    "text": "Ingredient: Sodium Chloride Variant 22\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 23",
+    "text": "Ingredient: Citric Acid Variant 23\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 23",
+    "text": "Ingredient: Sodium Benzoate Variant 23\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 23",
+    "text": "Ingredient: Ascorbic Acid Variant 23\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 23",
+    "text": "Ingredient: Calcium Carbonate Variant 23\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 23",
+    "text": "Ingredient: Xanthan Gum Variant 23\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 23",
+    "text": "Ingredient: Guar Gum Variant 23\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 23",
+    "text": "Ingredient: Lecithin Variant 23\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 23",
+    "text": "Ingredient: Potassium Sorbate Variant 23\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 23",
+    "text": "Ingredient: Malic Acid Variant 23\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 23",
+    "text": "Ingredient: Sodium Chloride Variant 23\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 24",
+    "text": "Ingredient: Citric Acid Variant 24\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 24",
+    "text": "Ingredient: Sodium Benzoate Variant 24\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 24",
+    "text": "Ingredient: Ascorbic Acid Variant 24\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 24",
+    "text": "Ingredient: Calcium Carbonate Variant 24\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 24",
+    "text": "Ingredient: Xanthan Gum Variant 24\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 24",
+    "text": "Ingredient: Guar Gum Variant 24\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 24",
+    "text": "Ingredient: Lecithin Variant 24\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 24",
+    "text": "Ingredient: Potassium Sorbate Variant 24\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 24",
+    "text": "Ingredient: Malic Acid Variant 24\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 24",
+    "text": "Ingredient: Sodium Chloride Variant 24\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 25",
+    "text": "Ingredient: Citric Acid Variant 25\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 25",
+    "text": "Ingredient: Sodium Benzoate Variant 25\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 25",
+    "text": "Ingredient: Ascorbic Acid Variant 25\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 25",
+    "text": "Ingredient: Calcium Carbonate Variant 25\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 25",
+    "text": "Ingredient: Xanthan Gum Variant 25\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 25",
+    "text": "Ingredient: Guar Gum Variant 25\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 25",
+    "text": "Ingredient: Lecithin Variant 25\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 25",
+    "text": "Ingredient: Potassium Sorbate Variant 25\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 25",
+    "text": "Ingredient: Malic Acid Variant 25\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 25",
+    "text": "Ingredient: Sodium Chloride Variant 25\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 26",
+    "text": "Ingredient: Citric Acid Variant 26\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 26",
+    "text": "Ingredient: Sodium Benzoate Variant 26\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 26",
+    "text": "Ingredient: Ascorbic Acid Variant 26\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 26",
+    "text": "Ingredient: Calcium Carbonate Variant 26\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 26",
+    "text": "Ingredient: Xanthan Gum Variant 26\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 26",
+    "text": "Ingredient: Guar Gum Variant 26\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 26",
+    "text": "Ingredient: Lecithin Variant 26\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 26",
+    "text": "Ingredient: Potassium Sorbate Variant 26\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 26",
+    "text": "Ingredient: Malic Acid Variant 26\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 26",
+    "text": "Ingredient: Sodium Chloride Variant 26\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 27",
+    "text": "Ingredient: Citric Acid Variant 27\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 27",
+    "text": "Ingredient: Sodium Benzoate Variant 27\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 27",
+    "text": "Ingredient: Ascorbic Acid Variant 27\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 27",
+    "text": "Ingredient: Calcium Carbonate Variant 27\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 27",
+    "text": "Ingredient: Xanthan Gum Variant 27\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 27",
+    "text": "Ingredient: Guar Gum Variant 27\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 27",
+    "text": "Ingredient: Lecithin Variant 27\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 27",
+    "text": "Ingredient: Potassium Sorbate Variant 27\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 27",
+    "text": "Ingredient: Malic Acid Variant 27\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 27",
+    "text": "Ingredient: Sodium Chloride Variant 27\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 28",
+    "text": "Ingredient: Citric Acid Variant 28\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 28",
+    "text": "Ingredient: Sodium Benzoate Variant 28\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 28",
+    "text": "Ingredient: Ascorbic Acid Variant 28\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 28",
+    "text": "Ingredient: Calcium Carbonate Variant 28\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 28",
+    "text": "Ingredient: Xanthan Gum Variant 28\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 28",
+    "text": "Ingredient: Guar Gum Variant 28\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 28",
+    "text": "Ingredient: Lecithin Variant 28\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 28",
+    "text": "Ingredient: Potassium Sorbate Variant 28\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 28",
+    "text": "Ingredient: Malic Acid Variant 28\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 28",
+    "text": "Ingredient: Sodium Chloride Variant 28\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 29",
+    "text": "Ingredient: Citric Acid Variant 29\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 29",
+    "text": "Ingredient: Sodium Benzoate Variant 29\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 29",
+    "text": "Ingredient: Ascorbic Acid Variant 29\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 29",
+    "text": "Ingredient: Calcium Carbonate Variant 29\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 29",
+    "text": "Ingredient: Xanthan Gum Variant 29\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 29",
+    "text": "Ingredient: Guar Gum Variant 29\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 29",
+    "text": "Ingredient: Lecithin Variant 29\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 29",
+    "text": "Ingredient: Potassium Sorbate Variant 29\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 29",
+    "text": "Ingredient: Malic Acid Variant 29\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 29",
+    "text": "Ingredient: Sodium Chloride Variant 29\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 30",
+    "text": "Ingredient: Citric Acid Variant 30\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 30",
+    "text": "Ingredient: Sodium Benzoate Variant 30\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 30",
+    "text": "Ingredient: Ascorbic Acid Variant 30\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 30",
+    "text": "Ingredient: Calcium Carbonate Variant 30\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 30",
+    "text": "Ingredient: Xanthan Gum Variant 30\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 30",
+    "text": "Ingredient: Guar Gum Variant 30\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 30",
+    "text": "Ingredient: Lecithin Variant 30\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 30",
+    "text": "Ingredient: Potassium Sorbate Variant 30\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 30",
+    "text": "Ingredient: Malic Acid Variant 30\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 30",
+    "text": "Ingredient: Sodium Chloride Variant 30\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 31",
+    "text": "Ingredient: Citric Acid Variant 31\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 31",
+    "text": "Ingredient: Sodium Benzoate Variant 31\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 31",
+    "text": "Ingredient: Ascorbic Acid Variant 31\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 31",
+    "text": "Ingredient: Calcium Carbonate Variant 31\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 31",
+    "text": "Ingredient: Xanthan Gum Variant 31\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 31",
+    "text": "Ingredient: Guar Gum Variant 31\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 31",
+    "text": "Ingredient: Lecithin Variant 31\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 31",
+    "text": "Ingredient: Potassium Sorbate Variant 31\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 31",
+    "text": "Ingredient: Malic Acid Variant 31\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 31",
+    "text": "Ingredient: Sodium Chloride Variant 31\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 32",
+    "text": "Ingredient: Citric Acid Variant 32\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 32",
+    "text": "Ingredient: Sodium Benzoate Variant 32\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 32",
+    "text": "Ingredient: Ascorbic Acid Variant 32\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 32",
+    "text": "Ingredient: Calcium Carbonate Variant 32\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 32",
+    "text": "Ingredient: Xanthan Gum Variant 32\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 32",
+    "text": "Ingredient: Guar Gum Variant 32\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 32",
+    "text": "Ingredient: Lecithin Variant 32\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 32",
+    "text": "Ingredient: Potassium Sorbate Variant 32\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 32",
+    "text": "Ingredient: Malic Acid Variant 32\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 32",
+    "text": "Ingredient: Sodium Chloride Variant 32\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 33",
+    "text": "Ingredient: Citric Acid Variant 33\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 33",
+    "text": "Ingredient: Sodium Benzoate Variant 33\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 33",
+    "text": "Ingredient: Ascorbic Acid Variant 33\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 33",
+    "text": "Ingredient: Calcium Carbonate Variant 33\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 33",
+    "text": "Ingredient: Xanthan Gum Variant 33\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 33",
+    "text": "Ingredient: Guar Gum Variant 33\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 33",
+    "text": "Ingredient: Lecithin Variant 33\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 33",
+    "text": "Ingredient: Potassium Sorbate Variant 33\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 33",
+    "text": "Ingredient: Malic Acid Variant 33\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 33",
+    "text": "Ingredient: Sodium Chloride Variant 33\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 34",
+    "text": "Ingredient: Citric Acid Variant 34\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 34",
+    "text": "Ingredient: Sodium Benzoate Variant 34\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 34",
+    "text": "Ingredient: Ascorbic Acid Variant 34\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 34",
+    "text": "Ingredient: Calcium Carbonate Variant 34\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 34",
+    "text": "Ingredient: Xanthan Gum Variant 34\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 34",
+    "text": "Ingredient: Guar Gum Variant 34\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 34",
+    "text": "Ingredient: Lecithin Variant 34\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 34",
+    "text": "Ingredient: Potassium Sorbate Variant 34\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 34",
+    "text": "Ingredient: Malic Acid Variant 34\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 34",
+    "text": "Ingredient: Sodium Chloride Variant 34\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 35",
+    "text": "Ingredient: Citric Acid Variant 35\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 35",
+    "text": "Ingredient: Sodium Benzoate Variant 35\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 35",
+    "text": "Ingredient: Ascorbic Acid Variant 35\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 35",
+    "text": "Ingredient: Calcium Carbonate Variant 35\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 35",
+    "text": "Ingredient: Xanthan Gum Variant 35\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 35",
+    "text": "Ingredient: Guar Gum Variant 35\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 35",
+    "text": "Ingredient: Lecithin Variant 35\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 35",
+    "text": "Ingredient: Potassium Sorbate Variant 35\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 35",
+    "text": "Ingredient: Malic Acid Variant 35\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 35",
+    "text": "Ingredient: Sodium Chloride Variant 35\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 36",
+    "text": "Ingredient: Citric Acid Variant 36\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 36",
+    "text": "Ingredient: Sodium Benzoate Variant 36\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 36",
+    "text": "Ingredient: Ascorbic Acid Variant 36\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 36",
+    "text": "Ingredient: Calcium Carbonate Variant 36\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 36",
+    "text": "Ingredient: Xanthan Gum Variant 36\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 36",
+    "text": "Ingredient: Guar Gum Variant 36\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 36",
+    "text": "Ingredient: Lecithin Variant 36\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 36",
+    "text": "Ingredient: Potassium Sorbate Variant 36\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 36",
+    "text": "Ingredient: Malic Acid Variant 36\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 36",
+    "text": "Ingredient: Sodium Chloride Variant 36\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 37",
+    "text": "Ingredient: Citric Acid Variant 37\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 37",
+    "text": "Ingredient: Sodium Benzoate Variant 37\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 37",
+    "text": "Ingredient: Ascorbic Acid Variant 37\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 37",
+    "text": "Ingredient: Calcium Carbonate Variant 37\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 37",
+    "text": "Ingredient: Xanthan Gum Variant 37\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 37",
+    "text": "Ingredient: Guar Gum Variant 37\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 37",
+    "text": "Ingredient: Lecithin Variant 37\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 37",
+    "text": "Ingredient: Potassium Sorbate Variant 37\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 37",
+    "text": "Ingredient: Malic Acid Variant 37\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 37",
+    "text": "Ingredient: Sodium Chloride Variant 37\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 38",
+    "text": "Ingredient: Citric Acid Variant 38\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 38",
+    "text": "Ingredient: Sodium Benzoate Variant 38\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 38",
+    "text": "Ingredient: Ascorbic Acid Variant 38\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 38",
+    "text": "Ingredient: Calcium Carbonate Variant 38\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 38",
+    "text": "Ingredient: Xanthan Gum Variant 38\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 38",
+    "text": "Ingredient: Guar Gum Variant 38\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 38",
+    "text": "Ingredient: Lecithin Variant 38\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 38",
+    "text": "Ingredient: Potassium Sorbate Variant 38\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 38",
+    "text": "Ingredient: Malic Acid Variant 38\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 38",
+    "text": "Ingredient: Sodium Chloride Variant 38\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 39",
+    "text": "Ingredient: Citric Acid Variant 39\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 39",
+    "text": "Ingredient: Sodium Benzoate Variant 39\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 39",
+    "text": "Ingredient: Ascorbic Acid Variant 39\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 39",
+    "text": "Ingredient: Calcium Carbonate Variant 39\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 39",
+    "text": "Ingredient: Xanthan Gum Variant 39\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 39",
+    "text": "Ingredient: Guar Gum Variant 39\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 39",
+    "text": "Ingredient: Lecithin Variant 39\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 39",
+    "text": "Ingredient: Potassium Sorbate Variant 39\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 39",
+    "text": "Ingredient: Malic Acid Variant 39\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 39",
+    "text": "Ingredient: Sodium Chloride Variant 39\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 40",
+    "text": "Ingredient: Citric Acid Variant 40\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 40",
+    "text": "Ingredient: Sodium Benzoate Variant 40\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 40",
+    "text": "Ingredient: Ascorbic Acid Variant 40\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 40",
+    "text": "Ingredient: Calcium Carbonate Variant 40\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 40",
+    "text": "Ingredient: Xanthan Gum Variant 40\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 40",
+    "text": "Ingredient: Guar Gum Variant 40\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 40",
+    "text": "Ingredient: Lecithin Variant 40\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 40",
+    "text": "Ingredient: Potassium Sorbate Variant 40\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 40",
+    "text": "Ingredient: Malic Acid Variant 40\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 40",
+    "text": "Ingredient: Sodium Chloride Variant 40\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 41",
+    "text": "Ingredient: Citric Acid Variant 41\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 41",
+    "text": "Ingredient: Sodium Benzoate Variant 41\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 41",
+    "text": "Ingredient: Ascorbic Acid Variant 41\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 41",
+    "text": "Ingredient: Calcium Carbonate Variant 41\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 41",
+    "text": "Ingredient: Xanthan Gum Variant 41\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 41",
+    "text": "Ingredient: Guar Gum Variant 41\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 41",
+    "text": "Ingredient: Lecithin Variant 41\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 41",
+    "text": "Ingredient: Potassium Sorbate Variant 41\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 41",
+    "text": "Ingredient: Malic Acid Variant 41\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 41",
+    "text": "Ingredient: Sodium Chloride Variant 41\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 42",
+    "text": "Ingredient: Citric Acid Variant 42\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 42",
+    "text": "Ingredient: Sodium Benzoate Variant 42\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 42",
+    "text": "Ingredient: Ascorbic Acid Variant 42\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 42",
+    "text": "Ingredient: Calcium Carbonate Variant 42\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 42",
+    "text": "Ingredient: Xanthan Gum Variant 42\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 42",
+    "text": "Ingredient: Guar Gum Variant 42\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 42",
+    "text": "Ingredient: Lecithin Variant 42\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 42",
+    "text": "Ingredient: Potassium Sorbate Variant 42\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 42",
+    "text": "Ingredient: Malic Acid Variant 42\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 42",
+    "text": "Ingredient: Sodium Chloride Variant 42\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 43",
+    "text": "Ingredient: Citric Acid Variant 43\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 43",
+    "text": "Ingredient: Sodium Benzoate Variant 43\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 43",
+    "text": "Ingredient: Ascorbic Acid Variant 43\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 43",
+    "text": "Ingredient: Calcium Carbonate Variant 43\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 43",
+    "text": "Ingredient: Xanthan Gum Variant 43\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 43",
+    "text": "Ingredient: Guar Gum Variant 43\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 43",
+    "text": "Ingredient: Lecithin Variant 43\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 43",
+    "text": "Ingredient: Potassium Sorbate Variant 43\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 43",
+    "text": "Ingredient: Malic Acid Variant 43\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 43",
+    "text": "Ingredient: Sodium Chloride Variant 43\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 44",
+    "text": "Ingredient: Citric Acid Variant 44\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 44",
+    "text": "Ingredient: Sodium Benzoate Variant 44\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 44",
+    "text": "Ingredient: Ascorbic Acid Variant 44\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 44",
+    "text": "Ingredient: Calcium Carbonate Variant 44\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 44",
+    "text": "Ingredient: Xanthan Gum Variant 44\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 44",
+    "text": "Ingredient: Guar Gum Variant 44\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 44",
+    "text": "Ingredient: Lecithin Variant 44\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 44",
+    "text": "Ingredient: Potassium Sorbate Variant 44\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 44",
+    "text": "Ingredient: Malic Acid Variant 44\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 44",
+    "text": "Ingredient: Sodium Chloride Variant 44\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 45",
+    "text": "Ingredient: Citric Acid Variant 45\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 45",
+    "text": "Ingredient: Sodium Benzoate Variant 45\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 45",
+    "text": "Ingredient: Ascorbic Acid Variant 45\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 45",
+    "text": "Ingredient: Calcium Carbonate Variant 45\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 45",
+    "text": "Ingredient: Xanthan Gum Variant 45\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 45",
+    "text": "Ingredient: Guar Gum Variant 45\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 45",
+    "text": "Ingredient: Lecithin Variant 45\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 45",
+    "text": "Ingredient: Potassium Sorbate Variant 45\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 45",
+    "text": "Ingredient: Malic Acid Variant 45\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 45",
+    "text": "Ingredient: Sodium Chloride Variant 45\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 46",
+    "text": "Ingredient: Citric Acid Variant 46\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 46",
+    "text": "Ingredient: Sodium Benzoate Variant 46\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 46",
+    "text": "Ingredient: Ascorbic Acid Variant 46\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 46",
+    "text": "Ingredient: Calcium Carbonate Variant 46\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 46",
+    "text": "Ingredient: Xanthan Gum Variant 46\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 46",
+    "text": "Ingredient: Guar Gum Variant 46\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 46",
+    "text": "Ingredient: Lecithin Variant 46\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 46",
+    "text": "Ingredient: Potassium Sorbate Variant 46\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 46",
+    "text": "Ingredient: Malic Acid Variant 46\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 46",
+    "text": "Ingredient: Sodium Chloride Variant 46\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 47",
+    "text": "Ingredient: Citric Acid Variant 47\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 47",
+    "text": "Ingredient: Sodium Benzoate Variant 47\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 47",
+    "text": "Ingredient: Ascorbic Acid Variant 47\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 47",
+    "text": "Ingredient: Calcium Carbonate Variant 47\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 47",
+    "text": "Ingredient: Xanthan Gum Variant 47\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 47",
+    "text": "Ingredient: Guar Gum Variant 47\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 47",
+    "text": "Ingredient: Lecithin Variant 47\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 47",
+    "text": "Ingredient: Potassium Sorbate Variant 47\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 47",
+    "text": "Ingredient: Malic Acid Variant 47\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 47",
+    "text": "Ingredient: Sodium Chloride Variant 47\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 48",
+    "text": "Ingredient: Citric Acid Variant 48\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 48",
+    "text": "Ingredient: Sodium Benzoate Variant 48\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 48",
+    "text": "Ingredient: Ascorbic Acid Variant 48\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 48",
+    "text": "Ingredient: Calcium Carbonate Variant 48\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 48",
+    "text": "Ingredient: Xanthan Gum Variant 48\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 48",
+    "text": "Ingredient: Guar Gum Variant 48\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 48",
+    "text": "Ingredient: Lecithin Variant 48\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 48",
+    "text": "Ingredient: Potassium Sorbate Variant 48\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 48",
+    "text": "Ingredient: Malic Acid Variant 48\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 48",
+    "text": "Ingredient: Sodium Chloride Variant 48\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 49",
+    "text": "Ingredient: Citric Acid Variant 49\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 49",
+    "text": "Ingredient: Sodium Benzoate Variant 49\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 49",
+    "text": "Ingredient: Ascorbic Acid Variant 49\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 49",
+    "text": "Ingredient: Calcium Carbonate Variant 49\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 49",
+    "text": "Ingredient: Xanthan Gum Variant 49\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 49",
+    "text": "Ingredient: Guar Gum Variant 49\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 49",
+    "text": "Ingredient: Lecithin Variant 49\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 49",
+    "text": "Ingredient: Potassium Sorbate Variant 49\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 49",
+    "text": "Ingredient: Malic Acid Variant 49\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 49",
+    "text": "Ingredient: Sodium Chloride Variant 49\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 50",
+    "text": "Ingredient: Citric Acid Variant 50\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 50",
+    "text": "Ingredient: Sodium Benzoate Variant 50\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 50",
+    "text": "Ingredient: Ascorbic Acid Variant 50\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 50",
+    "text": "Ingredient: Calcium Carbonate Variant 50\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 50",
+    "text": "Ingredient: Xanthan Gum Variant 50\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 50",
+    "text": "Ingredient: Guar Gum Variant 50\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 50",
+    "text": "Ingredient: Lecithin Variant 50\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 50",
+    "text": "Ingredient: Potassium Sorbate Variant 50\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 50",
+    "text": "Ingredient: Malic Acid Variant 50\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 50",
+    "text": "Ingredient: Sodium Chloride Variant 50\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 51",
+    "text": "Ingredient: Citric Acid Variant 51\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 51",
+    "text": "Ingredient: Sodium Benzoate Variant 51\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 51",
+    "text": "Ingredient: Ascorbic Acid Variant 51\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 51",
+    "text": "Ingredient: Calcium Carbonate Variant 51\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 51",
+    "text": "Ingredient: Xanthan Gum Variant 51\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 51",
+    "text": "Ingredient: Guar Gum Variant 51\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 51",
+    "text": "Ingredient: Lecithin Variant 51\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 51",
+    "text": "Ingredient: Potassium Sorbate Variant 51\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 51",
+    "text": "Ingredient: Malic Acid Variant 51\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 51",
+    "text": "Ingredient: Sodium Chloride Variant 51\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 52",
+    "text": "Ingredient: Citric Acid Variant 52\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 52",
+    "text": "Ingredient: Sodium Benzoate Variant 52\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 52",
+    "text": "Ingredient: Ascorbic Acid Variant 52\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 52",
+    "text": "Ingredient: Calcium Carbonate Variant 52\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 52",
+    "text": "Ingredient: Xanthan Gum Variant 52\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 52",
+    "text": "Ingredient: Guar Gum Variant 52\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 52",
+    "text": "Ingredient: Lecithin Variant 52\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 52",
+    "text": "Ingredient: Potassium Sorbate Variant 52\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 52",
+    "text": "Ingredient: Malic Acid Variant 52\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 52",
+    "text": "Ingredient: Sodium Chloride Variant 52\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 53",
+    "text": "Ingredient: Citric Acid Variant 53\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 53",
+    "text": "Ingredient: Sodium Benzoate Variant 53\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 53",
+    "text": "Ingredient: Ascorbic Acid Variant 53\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 53",
+    "text": "Ingredient: Calcium Carbonate Variant 53\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 53",
+    "text": "Ingredient: Xanthan Gum Variant 53\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 53",
+    "text": "Ingredient: Guar Gum Variant 53\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 53",
+    "text": "Ingredient: Lecithin Variant 53\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 53",
+    "text": "Ingredient: Potassium Sorbate Variant 53\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 53",
+    "text": "Ingredient: Malic Acid Variant 53\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 53",
+    "text": "Ingredient: Sodium Chloride Variant 53\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 54",
+    "text": "Ingredient: Citric Acid Variant 54\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 54",
+    "text": "Ingredient: Sodium Benzoate Variant 54\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 54",
+    "text": "Ingredient: Ascorbic Acid Variant 54\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 54",
+    "text": "Ingredient: Calcium Carbonate Variant 54\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 54",
+    "text": "Ingredient: Xanthan Gum Variant 54\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 54",
+    "text": "Ingredient: Guar Gum Variant 54\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 54",
+    "text": "Ingredient: Lecithin Variant 54\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 54",
+    "text": "Ingredient: Potassium Sorbate Variant 54\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 54",
+    "text": "Ingredient: Malic Acid Variant 54\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 54",
+    "text": "Ingredient: Sodium Chloride Variant 54\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 55",
+    "text": "Ingredient: Citric Acid Variant 55\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 55",
+    "text": "Ingredient: Sodium Benzoate Variant 55\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 55",
+    "text": "Ingredient: Ascorbic Acid Variant 55\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 55",
+    "text": "Ingredient: Calcium Carbonate Variant 55\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 55",
+    "text": "Ingredient: Xanthan Gum Variant 55\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 55",
+    "text": "Ingredient: Guar Gum Variant 55\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 55",
+    "text": "Ingredient: Lecithin Variant 55\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 55",
+    "text": "Ingredient: Potassium Sorbate Variant 55\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 55",
+    "text": "Ingredient: Malic Acid Variant 55\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 55",
+    "text": "Ingredient: Sodium Chloride Variant 55\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 56",
+    "text": "Ingredient: Citric Acid Variant 56\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 56",
+    "text": "Ingredient: Sodium Benzoate Variant 56\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 56",
+    "text": "Ingredient: Ascorbic Acid Variant 56\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 56",
+    "text": "Ingredient: Calcium Carbonate Variant 56\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 56",
+    "text": "Ingredient: Xanthan Gum Variant 56\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 56",
+    "text": "Ingredient: Guar Gum Variant 56\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 56",
+    "text": "Ingredient: Lecithin Variant 56\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 56",
+    "text": "Ingredient: Potassium Sorbate Variant 56\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 56",
+    "text": "Ingredient: Malic Acid Variant 56\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 56",
+    "text": "Ingredient: Sodium Chloride Variant 56\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 57",
+    "text": "Ingredient: Citric Acid Variant 57\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 57",
+    "text": "Ingredient: Sodium Benzoate Variant 57\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 57",
+    "text": "Ingredient: Ascorbic Acid Variant 57\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 57",
+    "text": "Ingredient: Calcium Carbonate Variant 57\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 57",
+    "text": "Ingredient: Xanthan Gum Variant 57\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 57",
+    "text": "Ingredient: Guar Gum Variant 57\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 57",
+    "text": "Ingredient: Lecithin Variant 57\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 57",
+    "text": "Ingredient: Potassium Sorbate Variant 57\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 57",
+    "text": "Ingredient: Malic Acid Variant 57\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 57",
+    "text": "Ingredient: Sodium Chloride Variant 57\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 58",
+    "text": "Ingredient: Citric Acid Variant 58\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 58",
+    "text": "Ingredient: Sodium Benzoate Variant 58\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 58",
+    "text": "Ingredient: Ascorbic Acid Variant 58\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 58",
+    "text": "Ingredient: Calcium Carbonate Variant 58\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 58",
+    "text": "Ingredient: Xanthan Gum Variant 58\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 58",
+    "text": "Ingredient: Guar Gum Variant 58\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 58",
+    "text": "Ingredient: Lecithin Variant 58\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 58",
+    "text": "Ingredient: Potassium Sorbate Variant 58\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 58",
+    "text": "Ingredient: Malic Acid Variant 58\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 58",
+    "text": "Ingredient: Sodium Chloride Variant 58\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 59",
+    "text": "Ingredient: Citric Acid Variant 59\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 59",
+    "text": "Ingredient: Sodium Benzoate Variant 59\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 59",
+    "text": "Ingredient: Ascorbic Acid Variant 59\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 59",
+    "text": "Ingredient: Calcium Carbonate Variant 59\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 59",
+    "text": "Ingredient: Xanthan Gum Variant 59\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 59",
+    "text": "Ingredient: Guar Gum Variant 59\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 59",
+    "text": "Ingredient: Lecithin Variant 59\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 59",
+    "text": "Ingredient: Potassium Sorbate Variant 59\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 59",
+    "text": "Ingredient: Malic Acid Variant 59\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 59",
+    "text": "Ingredient: Sodium Chloride Variant 59\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 60",
+    "text": "Ingredient: Citric Acid Variant 60\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 60",
+    "text": "Ingredient: Sodium Benzoate Variant 60\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 60",
+    "text": "Ingredient: Ascorbic Acid Variant 60\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 60",
+    "text": "Ingredient: Calcium Carbonate Variant 60\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 60",
+    "text": "Ingredient: Xanthan Gum Variant 60\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 60",
+    "text": "Ingredient: Guar Gum Variant 60\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 60",
+    "text": "Ingredient: Lecithin Variant 60\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 60",
+    "text": "Ingredient: Potassium Sorbate Variant 60\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 60",
+    "text": "Ingredient: Malic Acid Variant 60\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 60",
+    "text": "Ingredient: Sodium Chloride Variant 60\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 61",
+    "text": "Ingredient: Citric Acid Variant 61\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 61",
+    "text": "Ingredient: Sodium Benzoate Variant 61\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 61",
+    "text": "Ingredient: Ascorbic Acid Variant 61\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 61",
+    "text": "Ingredient: Calcium Carbonate Variant 61\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 61",
+    "text": "Ingredient: Xanthan Gum Variant 61\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 61",
+    "text": "Ingredient: Guar Gum Variant 61\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 61",
+    "text": "Ingredient: Lecithin Variant 61\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 61",
+    "text": "Ingredient: Potassium Sorbate Variant 61\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 61",
+    "text": "Ingredient: Malic Acid Variant 61\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 61",
+    "text": "Ingredient: Sodium Chloride Variant 61\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 62",
+    "text": "Ingredient: Citric Acid Variant 62\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 62",
+    "text": "Ingredient: Sodium Benzoate Variant 62\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 62",
+    "text": "Ingredient: Ascorbic Acid Variant 62\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 62",
+    "text": "Ingredient: Calcium Carbonate Variant 62\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 62",
+    "text": "Ingredient: Xanthan Gum Variant 62\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 62",
+    "text": "Ingredient: Guar Gum Variant 62\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 62",
+    "text": "Ingredient: Lecithin Variant 62\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 62",
+    "text": "Ingredient: Potassium Sorbate Variant 62\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 62",
+    "text": "Ingredient: Malic Acid Variant 62\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 62",
+    "text": "Ingredient: Sodium Chloride Variant 62\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 63",
+    "text": "Ingredient: Citric Acid Variant 63\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 63",
+    "text": "Ingredient: Sodium Benzoate Variant 63\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 63",
+    "text": "Ingredient: Ascorbic Acid Variant 63\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 63",
+    "text": "Ingredient: Calcium Carbonate Variant 63\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 63",
+    "text": "Ingredient: Xanthan Gum Variant 63\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 63",
+    "text": "Ingredient: Guar Gum Variant 63\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 63",
+    "text": "Ingredient: Lecithin Variant 63\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 63",
+    "text": "Ingredient: Potassium Sorbate Variant 63\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 63",
+    "text": "Ingredient: Malic Acid Variant 63\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 63",
+    "text": "Ingredient: Sodium Chloride Variant 63\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 64",
+    "text": "Ingredient: Citric Acid Variant 64\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 64",
+    "text": "Ingredient: Sodium Benzoate Variant 64\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 64",
+    "text": "Ingredient: Ascorbic Acid Variant 64\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 64",
+    "text": "Ingredient: Calcium Carbonate Variant 64\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 64",
+    "text": "Ingredient: Xanthan Gum Variant 64\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 64",
+    "text": "Ingredient: Guar Gum Variant 64\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 64",
+    "text": "Ingredient: Lecithin Variant 64\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 64",
+    "text": "Ingredient: Potassium Sorbate Variant 64\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 64",
+    "text": "Ingredient: Malic Acid Variant 64\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 64",
+    "text": "Ingredient: Sodium Chloride Variant 64\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 65",
+    "text": "Ingredient: Citric Acid Variant 65\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 65",
+    "text": "Ingredient: Sodium Benzoate Variant 65\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 65",
+    "text": "Ingredient: Ascorbic Acid Variant 65\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 65",
+    "text": "Ingredient: Calcium Carbonate Variant 65\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 65",
+    "text": "Ingredient: Xanthan Gum Variant 65\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 65",
+    "text": "Ingredient: Guar Gum Variant 65\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 65",
+    "text": "Ingredient: Lecithin Variant 65\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 65",
+    "text": "Ingredient: Potassium Sorbate Variant 65\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 65",
+    "text": "Ingredient: Malic Acid Variant 65\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 65",
+    "text": "Ingredient: Sodium Chloride Variant 65\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 66",
+    "text": "Ingredient: Citric Acid Variant 66\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 66",
+    "text": "Ingredient: Sodium Benzoate Variant 66\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 66",
+    "text": "Ingredient: Ascorbic Acid Variant 66\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 66",
+    "text": "Ingredient: Calcium Carbonate Variant 66\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 66",
+    "text": "Ingredient: Xanthan Gum Variant 66\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 66",
+    "text": "Ingredient: Guar Gum Variant 66\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 66",
+    "text": "Ingredient: Lecithin Variant 66\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 66",
+    "text": "Ingredient: Potassium Sorbate Variant 66\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 66",
+    "text": "Ingredient: Malic Acid Variant 66\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 66",
+    "text": "Ingredient: Sodium Chloride Variant 66\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 67",
+    "text": "Ingredient: Citric Acid Variant 67\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 67",
+    "text": "Ingredient: Sodium Benzoate Variant 67\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 67",
+    "text": "Ingredient: Ascorbic Acid Variant 67\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 67",
+    "text": "Ingredient: Calcium Carbonate Variant 67\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 67",
+    "text": "Ingredient: Xanthan Gum Variant 67\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 67",
+    "text": "Ingredient: Guar Gum Variant 67\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 67",
+    "text": "Ingredient: Lecithin Variant 67\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 67",
+    "text": "Ingredient: Potassium Sorbate Variant 67\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 67",
+    "text": "Ingredient: Malic Acid Variant 67\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 67",
+    "text": "Ingredient: Sodium Chloride Variant 67\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 68",
+    "text": "Ingredient: Citric Acid Variant 68\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 68",
+    "text": "Ingredient: Sodium Benzoate Variant 68\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 68",
+    "text": "Ingredient: Ascorbic Acid Variant 68\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 68",
+    "text": "Ingredient: Calcium Carbonate Variant 68\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 68",
+    "text": "Ingredient: Xanthan Gum Variant 68\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 68",
+    "text": "Ingredient: Guar Gum Variant 68\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 68",
+    "text": "Ingredient: Lecithin Variant 68\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 68",
+    "text": "Ingredient: Potassium Sorbate Variant 68\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 68",
+    "text": "Ingredient: Malic Acid Variant 68\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 68",
+    "text": "Ingredient: Sodium Chloride Variant 68\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 69",
+    "text": "Ingredient: Citric Acid Variant 69\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 69",
+    "text": "Ingredient: Sodium Benzoate Variant 69\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 69",
+    "text": "Ingredient: Ascorbic Acid Variant 69\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 69",
+    "text": "Ingredient: Calcium Carbonate Variant 69\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 69",
+    "text": "Ingredient: Xanthan Gum Variant 69\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 69",
+    "text": "Ingredient: Guar Gum Variant 69\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 69",
+    "text": "Ingredient: Lecithin Variant 69\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 69",
+    "text": "Ingredient: Potassium Sorbate Variant 69\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 69",
+    "text": "Ingredient: Malic Acid Variant 69\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 69",
+    "text": "Ingredient: Sodium Chloride Variant 69\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 70",
+    "text": "Ingredient: Citric Acid Variant 70\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 70",
+    "text": "Ingredient: Sodium Benzoate Variant 70\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 70",
+    "text": "Ingredient: Ascorbic Acid Variant 70\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 70",
+    "text": "Ingredient: Calcium Carbonate Variant 70\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 70",
+    "text": "Ingredient: Xanthan Gum Variant 70\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 70",
+    "text": "Ingredient: Guar Gum Variant 70\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 70",
+    "text": "Ingredient: Lecithin Variant 70\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 70",
+    "text": "Ingredient: Potassium Sorbate Variant 70\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 70",
+    "text": "Ingredient: Malic Acid Variant 70\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 70",
+    "text": "Ingredient: Sodium Chloride Variant 70\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 71",
+    "text": "Ingredient: Citric Acid Variant 71\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 71",
+    "text": "Ingredient: Sodium Benzoate Variant 71\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 71",
+    "text": "Ingredient: Ascorbic Acid Variant 71\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 71",
+    "text": "Ingredient: Calcium Carbonate Variant 71\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 71",
+    "text": "Ingredient: Xanthan Gum Variant 71\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 71",
+    "text": "Ingredient: Guar Gum Variant 71\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 71",
+    "text": "Ingredient: Lecithin Variant 71\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 71",
+    "text": "Ingredient: Potassium Sorbate Variant 71\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 71",
+    "text": "Ingredient: Malic Acid Variant 71\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 71",
+    "text": "Ingredient: Sodium Chloride Variant 71\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 72",
+    "text": "Ingredient: Citric Acid Variant 72\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 72",
+    "text": "Ingredient: Sodium Benzoate Variant 72\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 72",
+    "text": "Ingredient: Ascorbic Acid Variant 72\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 72",
+    "text": "Ingredient: Calcium Carbonate Variant 72\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 72",
+    "text": "Ingredient: Xanthan Gum Variant 72\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 72",
+    "text": "Ingredient: Guar Gum Variant 72\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 72",
+    "text": "Ingredient: Lecithin Variant 72\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 72",
+    "text": "Ingredient: Potassium Sorbate Variant 72\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 72",
+    "text": "Ingredient: Malic Acid Variant 72\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 72",
+    "text": "Ingredient: Sodium Chloride Variant 72\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 73",
+    "text": "Ingredient: Citric Acid Variant 73\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 73",
+    "text": "Ingredient: Sodium Benzoate Variant 73\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 73",
+    "text": "Ingredient: Ascorbic Acid Variant 73\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 73",
+    "text": "Ingredient: Calcium Carbonate Variant 73\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 73",
+    "text": "Ingredient: Xanthan Gum Variant 73\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 73",
+    "text": "Ingredient: Guar Gum Variant 73\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 73",
+    "text": "Ingredient: Lecithin Variant 73\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 73",
+    "text": "Ingredient: Potassium Sorbate Variant 73\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 73",
+    "text": "Ingredient: Malic Acid Variant 73\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 73",
+    "text": "Ingredient: Sodium Chloride Variant 73\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 74",
+    "text": "Ingredient: Citric Acid Variant 74\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 74",
+    "text": "Ingredient: Sodium Benzoate Variant 74\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 74",
+    "text": "Ingredient: Ascorbic Acid Variant 74\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 74",
+    "text": "Ingredient: Calcium Carbonate Variant 74\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 74",
+    "text": "Ingredient: Xanthan Gum Variant 74\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 74",
+    "text": "Ingredient: Guar Gum Variant 74\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 74",
+    "text": "Ingredient: Lecithin Variant 74\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 74",
+    "text": "Ingredient: Potassium Sorbate Variant 74\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 74",
+    "text": "Ingredient: Malic Acid Variant 74\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 74",
+    "text": "Ingredient: Sodium Chloride Variant 74\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 75",
+    "text": "Ingredient: Citric Acid Variant 75\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 75",
+    "text": "Ingredient: Sodium Benzoate Variant 75\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 75",
+    "text": "Ingredient: Ascorbic Acid Variant 75\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 75",
+    "text": "Ingredient: Calcium Carbonate Variant 75\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 75",
+    "text": "Ingredient: Xanthan Gum Variant 75\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 75",
+    "text": "Ingredient: Guar Gum Variant 75\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 75",
+    "text": "Ingredient: Lecithin Variant 75\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 75",
+    "text": "Ingredient: Potassium Sorbate Variant 75\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 75",
+    "text": "Ingredient: Malic Acid Variant 75\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 75",
+    "text": "Ingredient: Sodium Chloride Variant 75\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 76",
+    "text": "Ingredient: Citric Acid Variant 76\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 76",
+    "text": "Ingredient: Sodium Benzoate Variant 76\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 76",
+    "text": "Ingredient: Ascorbic Acid Variant 76\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 76",
+    "text": "Ingredient: Calcium Carbonate Variant 76\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 76",
+    "text": "Ingredient: Xanthan Gum Variant 76\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 76",
+    "text": "Ingredient: Guar Gum Variant 76\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 76",
+    "text": "Ingredient: Lecithin Variant 76\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 76",
+    "text": "Ingredient: Potassium Sorbate Variant 76\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 76",
+    "text": "Ingredient: Malic Acid Variant 76\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 76",
+    "text": "Ingredient: Sodium Chloride Variant 76\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 77",
+    "text": "Ingredient: Citric Acid Variant 77\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 77",
+    "text": "Ingredient: Sodium Benzoate Variant 77\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 77",
+    "text": "Ingredient: Ascorbic Acid Variant 77\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 77",
+    "text": "Ingredient: Calcium Carbonate Variant 77\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 77",
+    "text": "Ingredient: Xanthan Gum Variant 77\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 77",
+    "text": "Ingredient: Guar Gum Variant 77\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 77",
+    "text": "Ingredient: Lecithin Variant 77\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 77",
+    "text": "Ingredient: Potassium Sorbate Variant 77\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 77",
+    "text": "Ingredient: Malic Acid Variant 77\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 77",
+    "text": "Ingredient: Sodium Chloride Variant 77\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 78",
+    "text": "Ingredient: Citric Acid Variant 78\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 78",
+    "text": "Ingredient: Sodium Benzoate Variant 78\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 78",
+    "text": "Ingredient: Ascorbic Acid Variant 78\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 78",
+    "text": "Ingredient: Calcium Carbonate Variant 78\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 78",
+    "text": "Ingredient: Xanthan Gum Variant 78\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 78",
+    "text": "Ingredient: Guar Gum Variant 78\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 78",
+    "text": "Ingredient: Lecithin Variant 78\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 78",
+    "text": "Ingredient: Potassium Sorbate Variant 78\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 78",
+    "text": "Ingredient: Malic Acid Variant 78\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 78",
+    "text": "Ingredient: Sodium Chloride Variant 78\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 79",
+    "text": "Ingredient: Citric Acid Variant 79\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 79",
+    "text": "Ingredient: Sodium Benzoate Variant 79\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 79",
+    "text": "Ingredient: Ascorbic Acid Variant 79\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 79",
+    "text": "Ingredient: Calcium Carbonate Variant 79\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 79",
+    "text": "Ingredient: Xanthan Gum Variant 79\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 79",
+    "text": "Ingredient: Guar Gum Variant 79\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 79",
+    "text": "Ingredient: Lecithin Variant 79\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 79",
+    "text": "Ingredient: Potassium Sorbate Variant 79\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 79",
+    "text": "Ingredient: Malic Acid Variant 79\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 79",
+    "text": "Ingredient: Sodium Chloride Variant 79\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 80",
+    "text": "Ingredient: Citric Acid Variant 80\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 80",
+    "text": "Ingredient: Sodium Benzoate Variant 80\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 80",
+    "text": "Ingredient: Ascorbic Acid Variant 80\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 80",
+    "text": "Ingredient: Calcium Carbonate Variant 80\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 80",
+    "text": "Ingredient: Xanthan Gum Variant 80\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 80",
+    "text": "Ingredient: Guar Gum Variant 80\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 80",
+    "text": "Ingredient: Lecithin Variant 80\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 80",
+    "text": "Ingredient: Potassium Sorbate Variant 80\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 80",
+    "text": "Ingredient: Malic Acid Variant 80\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 80",
+    "text": "Ingredient: Sodium Chloride Variant 80\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 81",
+    "text": "Ingredient: Citric Acid Variant 81\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 81",
+    "text": "Ingredient: Sodium Benzoate Variant 81\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 81",
+    "text": "Ingredient: Ascorbic Acid Variant 81\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 81",
+    "text": "Ingredient: Calcium Carbonate Variant 81\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 81",
+    "text": "Ingredient: Xanthan Gum Variant 81\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 81",
+    "text": "Ingredient: Guar Gum Variant 81\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 81",
+    "text": "Ingredient: Lecithin Variant 81\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 81",
+    "text": "Ingredient: Potassium Sorbate Variant 81\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 81",
+    "text": "Ingredient: Malic Acid Variant 81\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 81",
+    "text": "Ingredient: Sodium Chloride Variant 81\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 82",
+    "text": "Ingredient: Citric Acid Variant 82\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 82",
+    "text": "Ingredient: Sodium Benzoate Variant 82\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 82",
+    "text": "Ingredient: Ascorbic Acid Variant 82\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 82",
+    "text": "Ingredient: Calcium Carbonate Variant 82\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 82",
+    "text": "Ingredient: Xanthan Gum Variant 82\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 82",
+    "text": "Ingredient: Guar Gum Variant 82\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 82",
+    "text": "Ingredient: Lecithin Variant 82\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 82",
+    "text": "Ingredient: Potassium Sorbate Variant 82\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 82",
+    "text": "Ingredient: Malic Acid Variant 82\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 82",
+    "text": "Ingredient: Sodium Chloride Variant 82\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 83",
+    "text": "Ingredient: Citric Acid Variant 83\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 83",
+    "text": "Ingredient: Sodium Benzoate Variant 83\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 83",
+    "text": "Ingredient: Ascorbic Acid Variant 83\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 83",
+    "text": "Ingredient: Calcium Carbonate Variant 83\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 83",
+    "text": "Ingredient: Xanthan Gum Variant 83\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 83",
+    "text": "Ingredient: Guar Gum Variant 83\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 83",
+    "text": "Ingredient: Lecithin Variant 83\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 83",
+    "text": "Ingredient: Potassium Sorbate Variant 83\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 83",
+    "text": "Ingredient: Malic Acid Variant 83\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 83",
+    "text": "Ingredient: Sodium Chloride Variant 83\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 84",
+    "text": "Ingredient: Citric Acid Variant 84\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 84",
+    "text": "Ingredient: Sodium Benzoate Variant 84\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 84",
+    "text": "Ingredient: Ascorbic Acid Variant 84\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 84",
+    "text": "Ingredient: Calcium Carbonate Variant 84\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 84",
+    "text": "Ingredient: Xanthan Gum Variant 84\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 84",
+    "text": "Ingredient: Guar Gum Variant 84\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 84",
+    "text": "Ingredient: Lecithin Variant 84\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 84",
+    "text": "Ingredient: Potassium Sorbate Variant 84\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 84",
+    "text": "Ingredient: Malic Acid Variant 84\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 84",
+    "text": "Ingredient: Sodium Chloride Variant 84\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 85",
+    "text": "Ingredient: Citric Acid Variant 85\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 85",
+    "text": "Ingredient: Sodium Benzoate Variant 85\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 85",
+    "text": "Ingredient: Ascorbic Acid Variant 85\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 85",
+    "text": "Ingredient: Calcium Carbonate Variant 85\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 85",
+    "text": "Ingredient: Xanthan Gum Variant 85\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 85",
+    "text": "Ingredient: Guar Gum Variant 85\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 85",
+    "text": "Ingredient: Lecithin Variant 85\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 85",
+    "text": "Ingredient: Potassium Sorbate Variant 85\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 85",
+    "text": "Ingredient: Malic Acid Variant 85\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 85",
+    "text": "Ingredient: Sodium Chloride Variant 85\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 86",
+    "text": "Ingredient: Citric Acid Variant 86\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 86",
+    "text": "Ingredient: Sodium Benzoate Variant 86\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 86",
+    "text": "Ingredient: Ascorbic Acid Variant 86\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 86",
+    "text": "Ingredient: Calcium Carbonate Variant 86\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 86",
+    "text": "Ingredient: Xanthan Gum Variant 86\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 86",
+    "text": "Ingredient: Guar Gum Variant 86\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 86",
+    "text": "Ingredient: Lecithin Variant 86\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 86",
+    "text": "Ingredient: Potassium Sorbate Variant 86\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 86",
+    "text": "Ingredient: Malic Acid Variant 86\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 86",
+    "text": "Ingredient: Sodium Chloride Variant 86\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 87",
+    "text": "Ingredient: Citric Acid Variant 87\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 87",
+    "text": "Ingredient: Sodium Benzoate Variant 87\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 87",
+    "text": "Ingredient: Ascorbic Acid Variant 87\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 87",
+    "text": "Ingredient: Calcium Carbonate Variant 87\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 87",
+    "text": "Ingredient: Xanthan Gum Variant 87\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 87",
+    "text": "Ingredient: Guar Gum Variant 87\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 87",
+    "text": "Ingredient: Lecithin Variant 87\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 87",
+    "text": "Ingredient: Potassium Sorbate Variant 87\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 87",
+    "text": "Ingredient: Malic Acid Variant 87\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 87",
+    "text": "Ingredient: Sodium Chloride Variant 87\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 88",
+    "text": "Ingredient: Citric Acid Variant 88\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 88",
+    "text": "Ingredient: Sodium Benzoate Variant 88\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 88",
+    "text": "Ingredient: Ascorbic Acid Variant 88\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 88",
+    "text": "Ingredient: Calcium Carbonate Variant 88\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 88",
+    "text": "Ingredient: Xanthan Gum Variant 88\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 88",
+    "text": "Ingredient: Guar Gum Variant 88\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 88",
+    "text": "Ingredient: Lecithin Variant 88\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 88",
+    "text": "Ingredient: Potassium Sorbate Variant 88\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 88",
+    "text": "Ingredient: Malic Acid Variant 88\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 88",
+    "text": "Ingredient: Sodium Chloride Variant 88\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 89",
+    "text": "Ingredient: Citric Acid Variant 89\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 89",
+    "text": "Ingredient: Sodium Benzoate Variant 89\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 89",
+    "text": "Ingredient: Ascorbic Acid Variant 89\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 89",
+    "text": "Ingredient: Calcium Carbonate Variant 89\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 89",
+    "text": "Ingredient: Xanthan Gum Variant 89\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 89",
+    "text": "Ingredient: Guar Gum Variant 89\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 89",
+    "text": "Ingredient: Lecithin Variant 89\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 89",
+    "text": "Ingredient: Potassium Sorbate Variant 89\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 89",
+    "text": "Ingredient: Malic Acid Variant 89\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 89",
+    "text": "Ingredient: Sodium Chloride Variant 89\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 90",
+    "text": "Ingredient: Citric Acid Variant 90\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 90",
+    "text": "Ingredient: Sodium Benzoate Variant 90\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 90",
+    "text": "Ingredient: Ascorbic Acid Variant 90\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 90",
+    "text": "Ingredient: Calcium Carbonate Variant 90\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 90",
+    "text": "Ingredient: Xanthan Gum Variant 90\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 90",
+    "text": "Ingredient: Guar Gum Variant 90\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 90",
+    "text": "Ingredient: Lecithin Variant 90\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 90",
+    "text": "Ingredient: Potassium Sorbate Variant 90\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 90",
+    "text": "Ingredient: Malic Acid Variant 90\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 90",
+    "text": "Ingredient: Sodium Chloride Variant 90\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 91",
+    "text": "Ingredient: Citric Acid Variant 91\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 91",
+    "text": "Ingredient: Sodium Benzoate Variant 91\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 91",
+    "text": "Ingredient: Ascorbic Acid Variant 91\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 91",
+    "text": "Ingredient: Calcium Carbonate Variant 91\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 91",
+    "text": "Ingredient: Xanthan Gum Variant 91\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 91",
+    "text": "Ingredient: Guar Gum Variant 91\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 91",
+    "text": "Ingredient: Lecithin Variant 91\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 91",
+    "text": "Ingredient: Potassium Sorbate Variant 91\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 91",
+    "text": "Ingredient: Malic Acid Variant 91\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 91",
+    "text": "Ingredient: Sodium Chloride Variant 91\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 92",
+    "text": "Ingredient: Citric Acid Variant 92\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 92",
+    "text": "Ingredient: Sodium Benzoate Variant 92\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 92",
+    "text": "Ingredient: Ascorbic Acid Variant 92\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 92",
+    "text": "Ingredient: Calcium Carbonate Variant 92\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 92",
+    "text": "Ingredient: Xanthan Gum Variant 92\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 92",
+    "text": "Ingredient: Guar Gum Variant 92\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 92",
+    "text": "Ingredient: Lecithin Variant 92\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 92",
+    "text": "Ingredient: Potassium Sorbate Variant 92\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 92",
+    "text": "Ingredient: Malic Acid Variant 92\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 92",
+    "text": "Ingredient: Sodium Chloride Variant 92\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 93",
+    "text": "Ingredient: Citric Acid Variant 93\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 93",
+    "text": "Ingredient: Sodium Benzoate Variant 93\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 93",
+    "text": "Ingredient: Ascorbic Acid Variant 93\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 93",
+    "text": "Ingredient: Calcium Carbonate Variant 93\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 93",
+    "text": "Ingredient: Xanthan Gum Variant 93\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 93",
+    "text": "Ingredient: Guar Gum Variant 93\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 93",
+    "text": "Ingredient: Lecithin Variant 93\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 93",
+    "text": "Ingredient: Potassium Sorbate Variant 93\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 93",
+    "text": "Ingredient: Malic Acid Variant 93\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 93",
+    "text": "Ingredient: Sodium Chloride Variant 93\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 94",
+    "text": "Ingredient: Citric Acid Variant 94\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 94",
+    "text": "Ingredient: Sodium Benzoate Variant 94\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 94",
+    "text": "Ingredient: Ascorbic Acid Variant 94\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 94",
+    "text": "Ingredient: Calcium Carbonate Variant 94\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 94",
+    "text": "Ingredient: Xanthan Gum Variant 94\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 94",
+    "text": "Ingredient: Guar Gum Variant 94\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 94",
+    "text": "Ingredient: Lecithin Variant 94\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 94",
+    "text": "Ingredient: Potassium Sorbate Variant 94\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 94",
+    "text": "Ingredient: Malic Acid Variant 94\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 94",
+    "text": "Ingredient: Sodium Chloride Variant 94\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 95",
+    "text": "Ingredient: Citric Acid Variant 95\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 95",
+    "text": "Ingredient: Sodium Benzoate Variant 95\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 95",
+    "text": "Ingredient: Ascorbic Acid Variant 95\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 95",
+    "text": "Ingredient: Calcium Carbonate Variant 95\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 95",
+    "text": "Ingredient: Xanthan Gum Variant 95\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 95",
+    "text": "Ingredient: Guar Gum Variant 95\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 95",
+    "text": "Ingredient: Lecithin Variant 95\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 95",
+    "text": "Ingredient: Potassium Sorbate Variant 95\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 95",
+    "text": "Ingredient: Malic Acid Variant 95\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 95",
+    "text": "Ingredient: Sodium Chloride Variant 95\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 96",
+    "text": "Ingredient: Citric Acid Variant 96\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 96",
+    "text": "Ingredient: Sodium Benzoate Variant 96\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 96",
+    "text": "Ingredient: Ascorbic Acid Variant 96\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 96",
+    "text": "Ingredient: Calcium Carbonate Variant 96\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 96",
+    "text": "Ingredient: Xanthan Gum Variant 96\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 96",
+    "text": "Ingredient: Guar Gum Variant 96\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 96",
+    "text": "Ingredient: Lecithin Variant 96\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 96",
+    "text": "Ingredient: Potassium Sorbate Variant 96\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 96",
+    "text": "Ingredient: Malic Acid Variant 96\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 96",
+    "text": "Ingredient: Sodium Chloride Variant 96\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 97",
+    "text": "Ingredient: Citric Acid Variant 97\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 97",
+    "text": "Ingredient: Sodium Benzoate Variant 97\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 97",
+    "text": "Ingredient: Ascorbic Acid Variant 97\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 97",
+    "text": "Ingredient: Calcium Carbonate Variant 97\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 97",
+    "text": "Ingredient: Xanthan Gum Variant 97\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 97",
+    "text": "Ingredient: Guar Gum Variant 97\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 97",
+    "text": "Ingredient: Lecithin Variant 97\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 97",
+    "text": "Ingredient: Potassium Sorbate Variant 97\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 97",
+    "text": "Ingredient: Malic Acid Variant 97\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 97",
+    "text": "Ingredient: Sodium Chloride Variant 97\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 98",
+    "text": "Ingredient: Citric Acid Variant 98\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 98",
+    "text": "Ingredient: Sodium Benzoate Variant 98\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 98",
+    "text": "Ingredient: Ascorbic Acid Variant 98\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 98",
+    "text": "Ingredient: Calcium Carbonate Variant 98\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 98",
+    "text": "Ingredient: Xanthan Gum Variant 98\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 98",
+    "text": "Ingredient: Guar Gum Variant 98\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 98",
+    "text": "Ingredient: Lecithin Variant 98\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 98",
+    "text": "Ingredient: Potassium Sorbate Variant 98\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 98",
+    "text": "Ingredient: Malic Acid Variant 98\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 98",
+    "text": "Ingredient: Sodium Chloride Variant 98\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 99",
+    "text": "Ingredient: Citric Acid Variant 99\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 99",
+    "text": "Ingredient: Sodium Benzoate Variant 99\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 99",
+    "text": "Ingredient: Ascorbic Acid Variant 99\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 99",
+    "text": "Ingredient: Calcium Carbonate Variant 99\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 99",
+    "text": "Ingredient: Xanthan Gum Variant 99\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 99",
+    "text": "Ingredient: Guar Gum Variant 99\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 99",
+    "text": "Ingredient: Lecithin Variant 99\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 99",
+    "text": "Ingredient: Potassium Sorbate Variant 99\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 99",
+    "text": "Ingredient: Malic Acid Variant 99\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 99",
+    "text": "Ingredient: Sodium Chloride Variant 99\nFunction: Flavor\nCategory: Salt"
+  },
+  {
+    "ingredient": "Citric Acid Variant 100",
+    "text": "Ingredient: Citric Acid Variant 100\nFunction: pH Control\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Benzoate Variant 100",
+    "text": "Ingredient: Sodium Benzoate Variant 100\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Ascorbic Acid Variant 100",
+    "text": "Ingredient: Ascorbic Acid Variant 100\nFunction: Antioxidant\nCategory: Vitamin"
+  },
+  {
+    "ingredient": "Calcium Carbonate Variant 100",
+    "text": "Ingredient: Calcium Carbonate Variant 100\nFunction: Fortificant\nCategory: Mineral"
+  },
+  {
+    "ingredient": "Xanthan Gum Variant 100",
+    "text": "Ingredient: Xanthan Gum Variant 100\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Guar Gum Variant 100",
+    "text": "Ingredient: Guar Gum Variant 100\nFunction: Thickener\nCategory: Hydrocolloid"
+  },
+  {
+    "ingredient": "Lecithin Variant 100",
+    "text": "Ingredient: Lecithin Variant 100\nFunction: Emulsifier\nCategory: Emulsifier"
+  },
+  {
+    "ingredient": "Potassium Sorbate Variant 100",
+    "text": "Ingredient: Potassium Sorbate Variant 100\nFunction: Preservative\nCategory: Food Additive"
+  },
+  {
+    "ingredient": "Malic Acid Variant 100",
+    "text": "Ingredient: Malic Acid Variant 100\nFunction: Acidulant\nCategory: Acid"
+  },
+  {
+    "ingredient": "Sodium Chloride Variant 100",
+    "text": "Ingredient: Sodium Chloride Variant 100\nFunction: Flavor\nCategory: Salt"
+  }
+]

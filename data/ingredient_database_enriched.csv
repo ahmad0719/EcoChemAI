@@ -1,0 +1,1001 @@
+Ingredient,Function,Category,PubChem CID,IUPAC Name,Molecular Formula,Molecular Weight,PubChem Match
+Citric Acid,pH Control,Acid,311,"2-hydroxypropane-1,2,3-tricarboxylic acid",C6H8O7,192.12,Found
+Sodium Benzoate,Preservative,Food Additive,517055,sodium benzoate,C7H5NaO2,144.10,Found
+Ascorbic Acid,Antioxidant,Vitamin,54670067,"(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one",C6H8O6,176.12,Found
+Calcium Carbonate,Fortificant,Mineral,10112,calcium carbonate,CCaO3,100.09,Found
+Xanthan Gum,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin,Emulsifier,Emulsifier,16213884,"[(2R)-3-hexadecanoyloxy-2-[(9E,12E)-octadeca-9,12-dienoyl]oxypropyl] 2-(trimethylazaniumyl)ethyl phosphate",C42H80NO8P,758.1,Found
+Potassium Sorbate,Preservative,Food Additive,23676745,"potassium (2E,4E)-hexa-2,4-dienoate",C6H7KO2,150.22,Found
+Malic Acid,Acidulant,Acid,525,2-hydroxybutanedioic acid,C4H6O5,134.09,Found
+Sodium Chloride,Flavor,Salt,5234,sodium chloride,ClNa,58.44,Found
+Citric Acid Variant 2,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 2,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 2,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 2,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 2,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 2,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 2,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 2,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 2,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 2,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 3,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 3,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 3,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 3,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 3,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 3,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 3,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 3,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 3,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 3,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 4,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 4,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 4,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 4,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 4,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 4,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 4,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 4,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 4,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 4,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 5,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 5,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 5,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 5,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 5,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 5,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 5,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 5,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 5,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 5,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 6,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 6,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 6,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 6,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 6,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 6,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 6,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 6,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 6,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 6,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 7,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 7,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 7,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 7,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 7,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 7,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 7,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 7,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 7,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 7,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 8,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 8,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 8,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 8,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 8,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 8,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 8,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 8,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 8,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 8,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 9,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 9,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 9,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 9,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 9,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 9,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 9,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 9,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 9,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 9,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 10,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 10,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 10,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 10,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 10,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 10,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 10,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 10,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 10,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 10,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 11,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 11,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 11,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 11,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 11,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 11,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 11,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 11,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 11,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 11,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 12,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 12,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 12,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 12,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 12,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 12,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 12,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 12,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 12,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 12,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 13,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 13,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 13,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 13,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 13,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 13,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 13,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 13,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 13,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 13,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 14,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 14,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 14,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 14,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 14,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 14,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 14,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 14,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 14,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 14,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 15,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 15,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 15,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 15,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 15,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 15,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 15,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 15,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 15,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 15,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 16,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 16,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 16,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 16,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 16,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 16,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 16,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 16,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 16,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 16,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 17,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 17,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 17,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 17,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 17,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 17,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 17,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 17,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 17,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 17,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 18,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 18,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 18,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 18,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 18,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 18,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 18,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 18,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 18,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 18,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 19,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 19,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 19,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 19,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 19,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 19,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 19,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 19,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 19,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 19,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 20,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 20,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 20,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 20,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 20,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 20,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 20,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 20,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 20,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 20,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 21,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 21,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 21,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 21,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 21,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 21,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 21,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 21,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 21,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 21,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 22,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 22,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 22,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 22,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 22,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 22,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 22,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 22,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 22,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 22,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 23,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 23,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 23,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 23,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 23,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 23,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 23,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 23,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 23,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 23,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 24,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 24,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 24,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 24,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 24,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 24,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 24,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 24,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 24,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 24,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 25,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 25,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 25,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 25,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 25,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 25,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 25,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 25,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 25,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 25,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 26,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 26,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 26,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 26,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 26,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 26,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 26,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 26,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 26,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 26,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 27,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 27,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 27,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 27,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 27,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 27,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 27,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 27,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 27,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 27,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 28,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 28,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 28,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 28,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 28,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 28,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 28,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 28,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 28,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 28,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 29,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 29,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 29,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 29,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 29,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 29,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 29,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 29,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 29,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 29,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 30,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 30,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 30,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 30,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 30,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 30,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 30,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 30,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 30,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 30,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 31,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 31,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 31,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 31,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 31,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 31,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 31,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 31,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 31,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 31,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 32,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 32,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 32,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 32,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 32,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 32,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 32,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 32,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 32,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 32,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 33,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 33,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 33,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 33,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 33,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 33,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 33,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 33,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 33,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 33,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 34,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 34,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 34,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 34,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 34,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 34,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 34,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 34,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 34,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 34,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 35,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 35,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 35,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 35,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 35,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 35,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 35,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 35,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 35,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 35,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 36,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 36,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 36,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 36,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 36,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 36,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 36,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 36,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 36,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 36,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 37,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 37,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 37,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 37,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 37,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 37,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 37,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 37,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 37,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 37,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 38,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 38,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 38,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 38,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 38,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 38,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 38,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 38,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 38,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 38,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 39,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 39,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 39,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 39,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 39,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 39,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 39,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 39,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 39,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 39,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 40,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 40,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 40,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 40,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 40,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 40,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 40,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 40,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 40,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 40,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 41,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 41,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 41,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 41,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 41,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 41,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 41,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 41,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 41,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 41,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 42,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 42,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 42,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 42,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 42,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 42,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 42,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 42,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 42,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 42,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 43,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 43,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 43,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 43,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 43,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 43,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 43,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 43,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 43,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 43,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 44,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 44,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 44,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 44,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 44,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 44,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 44,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 44,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 44,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 44,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 45,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 45,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 45,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 45,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 45,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 45,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 45,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 45,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 45,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 45,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 46,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 46,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 46,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 46,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 46,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 46,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 46,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 46,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 46,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 46,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 47,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 47,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 47,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 47,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 47,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 47,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 47,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 47,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 47,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 47,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 48,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 48,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 48,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 48,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 48,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 48,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 48,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 48,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 48,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 48,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 49,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 49,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 49,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 49,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 49,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 49,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 49,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 49,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 49,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 49,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 50,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 50,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 50,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 50,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 50,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 50,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 50,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 50,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 50,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 50,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 51,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 51,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 51,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 51,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 51,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 51,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 51,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 51,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 51,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 51,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 52,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 52,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 52,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 52,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 52,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 52,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 52,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 52,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 52,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 52,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 53,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 53,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 53,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 53,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 53,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 53,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 53,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 53,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 53,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 53,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 54,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 54,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 54,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 54,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 54,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 54,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 54,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 54,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 54,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 54,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 55,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 55,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 55,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 55,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 55,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 55,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 55,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 55,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 55,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 55,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 56,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 56,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 56,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 56,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 56,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 56,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 56,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 56,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 56,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 56,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 57,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 57,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 57,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 57,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 57,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 57,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 57,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 57,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 57,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 57,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 58,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 58,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 58,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 58,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 58,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 58,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 58,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 58,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 58,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 58,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 59,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 59,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 59,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 59,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 59,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 59,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 59,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 59,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 59,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 59,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 60,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 60,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 60,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 60,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 60,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 60,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 60,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 60,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 60,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 60,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 61,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 61,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 61,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 61,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 61,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 61,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 61,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 61,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 61,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 61,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 62,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 62,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 62,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 62,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 62,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 62,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 62,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 62,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 62,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 62,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 63,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 63,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 63,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 63,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 63,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 63,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 63,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 63,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 63,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 63,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 64,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 64,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 64,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 64,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 64,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 64,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 64,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 64,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 64,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 64,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 65,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 65,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 65,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 65,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 65,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 65,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 65,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 65,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 65,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 65,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 66,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 66,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 66,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 66,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 66,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 66,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 66,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 66,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 66,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 66,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 67,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 67,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 67,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 67,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 67,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 67,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 67,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 67,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 67,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 67,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 68,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 68,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 68,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 68,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 68,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 68,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 68,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 68,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 68,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 68,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 69,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 69,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 69,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 69,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 69,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 69,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 69,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 69,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 69,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 69,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 70,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 70,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 70,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 70,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 70,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 70,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 70,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 70,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 70,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 70,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 71,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 71,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 71,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 71,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 71,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 71,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 71,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 71,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 71,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 71,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 72,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 72,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 72,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 72,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 72,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 72,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 72,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 72,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 72,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 72,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 73,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 73,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 73,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 73,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 73,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 73,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 73,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 73,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 73,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 73,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 74,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 74,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 74,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 74,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 74,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 74,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 74,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 74,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 74,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 74,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 75,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 75,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 75,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 75,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 75,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 75,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 75,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 75,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 75,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 75,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 76,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 76,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 76,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 76,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 76,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 76,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 76,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 76,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 76,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 76,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 77,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 77,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 77,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 77,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 77,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 77,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 77,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 77,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 77,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 77,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 78,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 78,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 78,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 78,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 78,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 78,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 78,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 78,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 78,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 78,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 79,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 79,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 79,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 79,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 79,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 79,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 79,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 79,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 79,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 79,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 80,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 80,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 80,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 80,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 80,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 80,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 80,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 80,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 80,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 80,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 81,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 81,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 81,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 81,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 81,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 81,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 81,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 81,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 81,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 81,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 82,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 82,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 82,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 82,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 82,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 82,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 82,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 82,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 82,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 82,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 83,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 83,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 83,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 83,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 83,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 83,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 83,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 83,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 83,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 83,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 84,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 84,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 84,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 84,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 84,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 84,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 84,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 84,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 84,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 84,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 85,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 85,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 85,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 85,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 85,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 85,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 85,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 85,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 85,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 85,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 86,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 86,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 86,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 86,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 86,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 86,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 86,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 86,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 86,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 86,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 87,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 87,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 87,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 87,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 87,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 87,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 87,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 87,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 87,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 87,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 88,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 88,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 88,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 88,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 88,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 88,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 88,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 88,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 88,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 88,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 89,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 89,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 89,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 89,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 89,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 89,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 89,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 89,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 89,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 89,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 90,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 90,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 90,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 90,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 90,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 90,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 90,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 90,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 90,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 90,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 91,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 91,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 91,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 91,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 91,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 91,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 91,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 91,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 91,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 91,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 92,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 92,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 92,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 92,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 92,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 92,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 92,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 92,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 92,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 92,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 93,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 93,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 93,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 93,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 93,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 93,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 93,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 93,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 93,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 93,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 94,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 94,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 94,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 94,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 94,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 94,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 94,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 94,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 94,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 94,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 95,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 95,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 95,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 95,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 95,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 95,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 95,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 95,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 95,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 95,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 96,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 96,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 96,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 96,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 96,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 96,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 96,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 96,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 96,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 96,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 97,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 97,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 97,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 97,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 97,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 97,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 97,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 97,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 97,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 97,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 98,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 98,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 98,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 98,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 98,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 98,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 98,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 98,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 98,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 98,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 99,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 99,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 99,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 99,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 99,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 99,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 99,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 99,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 99,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 99,Flavor,Salt,,,,,Not Found
+Citric Acid Variant 100,pH Control,Acid,,,,,Not Found
+Sodium Benzoate Variant 100,Preservative,Food Additive,,,,,Not Found
+Ascorbic Acid Variant 100,Antioxidant,Vitamin,,,,,Not Found
+Calcium Carbonate Variant 100,Fortificant,Mineral,,,,,Not Found
+Xanthan Gum Variant 100,Thickener,Hydrocolloid,,,,,Not Found
+Guar Gum Variant 100,Thickener,Hydrocolloid,,,,,Not Found
+Lecithin Variant 100,Emulsifier,Emulsifier,,,,,Not Found
+Potassium Sorbate Variant 100,Preservative,Food Additive,,,,,Not Found
+Malic Acid Variant 100,Acidulant,Acid,,,,,Not Found
+Sodium Chloride Variant 100,Flavor,Salt,,,,,Not Found
