@@ -49,3 +49,4 @@ rapidfuzz
 torch
 torchvision
 faiss-cpu
+sentence-transformers
